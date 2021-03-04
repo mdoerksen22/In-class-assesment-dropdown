@@ -1,0 +1,334 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M903.252 195.628l-391.252 391.252-391.252-391.252-120.748 120.744 512 512 512-512z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(248, 157, 112)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "down-chevron"
+        ],
+        "colorPermutations": {
+          "1301937412481571121": [
+            {
+              "f": 1
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(248, 157, 112)"
+        }
+      ],
+      "properties": {
+        "order": 7,
+        "id": 1,
+        "name": "down-chevron",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-281.22 0-512 230.78-512 512s230.78 512 512 512 512-230.78 512-512-230.78-512-512-512z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(130, 193, 74)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "green-circle"
+        ],
+        "colorPermutations": {
+          "1301937412481571121": [
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(130, 193, 74)"
+        }
+      ],
+      "properties": {
+        "order": 8,
+        "id": 0,
+        "name": "green-circle",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M224 318.123c0-159.058 128.942-288 288-288s288 128.942 288 288v0",
+          "M400 336c8.837 0 16 7.163 16 16v0",
+          "M384 352c0-8.837 7.163-16 16-16v0",
+          "M400 368c-8.837 0-16-7.163-16-16v0",
+          "M416 352c0 8.837-7.163 16-16 16v0",
+          "M624 336c8.837 0 16 7.163 16 16v0",
+          "M608 352c0-8.837 7.163-16 16-16v0",
+          "M624 368c-8.837 0-16-7.163-16-16v0",
+          "M640 352c0 8.837-7.163 16-16 16v0",
+          "M688.683 617.771c0.516-2.789 0.912-6.146 1.1-9.558l0.009-0.212c-3.729-50.185-45.363-89.49-96.177-89.49-3.695 0-7.342 0.208-10.93 0.613l0.44-0.040c-0.139-0.001-0.302-0.001-0.466-0.001-26.854 0-51.514 9.398-70.869 25.083l0.21-0.165c-19.145-15.521-43.804-24.918-70.659-24.918-0.164 0-0.328 0-0.492 0.001l0.025-0c-3.147-0.364-6.794-0.572-10.49-0.572-50.814 0-92.448 39.305-96.158 89.17l-0.019 0.32c0.198 3.625 0.593 6.982 1.184 10.271l-0.075-0.501c-81.575 39.712-137.964 119.805-143.287 213.562l-0.030 0.668c0 114.859 143.275 160 320 160s320-45.141 320-160c-5.353-94.424-61.742-174.517-141.82-213.57l-1.498-0.659z",
+          "M206.891 756.608c81.144 47.672 178.728 75.829 282.888 75.829 7.815 0 15.592-0.158 23.33-0.472l-1.109 0.036c6.67 0.282 14.496 0.443 22.36 0.443 104.114 0 201.652-28.159 285.411-77.277l-2.662 1.443",
+          "M229.675 261.248c-19.879-13.329-44.343-21.272-70.663-21.272-70.692 0-128 57.308-128 128s57.308 128 128 128c23.966 0 46.394-6.587 65.572-18.049l-0.584 0.323",
+          "M794.325 261.248c19.879-13.329 44.343-21.272 70.663-21.272 70.692 0 128 57.308 128 128s-57.308 128-128 128c-23.966 0-46.394-6.587-65.572-18.049l0.584 0.323"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "monkey"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        }
+      ],
+      "properties": {
+        "order": 6,
+        "id": 0,
+        "name": "monkey",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 3,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
